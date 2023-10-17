@@ -1,2 +1,4 @@
 # MLP
-This notebook is related to the paper: Machine learning in physics: a short guide, to appear on Europhysics Letters (EPL).
+This notebook is related to the paper: Machine Learning in Physics: a short guide, to appear on Europhysics Letters (EPL).
+
+Comming soon.
