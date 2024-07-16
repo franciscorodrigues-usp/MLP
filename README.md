@@ -1,8 +1,8 @@
 # Machine Learning in Physics: A Short Guide
 
-This notebook is related to the paper: 
-Machine learning in physics: a short guide
-Francisco Aparecido Rodrigues
+This notebook is related to the paper: <br>
+Machine learning in physics: a short guide <br>
+Francisco Aparecido Rodrigues <br>
 Europhysics Letters (EPL), Volume 144, Number 2 (2023).
 
 Link to the paper: 
