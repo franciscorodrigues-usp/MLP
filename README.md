@@ -20,15 +20,15 @@ How to cite:
   publisher={IOP Publishing}
 }
 
-My contacts:
+> My contacts:
 
-Webpage: https://sites.icmc.usp.br/francisco
+* Webpage: https://sites.icmc.usp.br/francisco
 
-Linkedin: https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b
+* Linkedin: https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b
 
-Youtube: https://www.youtube.com/franciscorodrigues
+* Youtube: https://www.youtube.com/franciscorodrigues
 
-Twitter: https://x.com/FranciscoICMC
+* Twitter: https://x.com/FranciscoICMC
 
 Telegram: https://t.me/cdcomplexos
 
