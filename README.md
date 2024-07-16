@@ -10,7 +10,7 @@ https://iopscience.iop.org/article/10.1209/0295-5075/ad0575
 
 How to cite:<br><br>
 @article{Rodrigues24:EPL,<br>
-\t title={Machine learning in physics: a short guide},<br>
+&nbsp; title={Machine learning in physics: a short guide},<br>
 \t author={Rodrigues, Francisco A},<br>
 \t journal={Europhysics Letters},<br>
 \t volume={144},<br>
