@@ -16,7 +16,7 @@ How to cite:<br><br>
 &nbsp; &nbsp; volume={144},<br>
 &nbsp; &nbsp; number={2},<br>
 &nbsp; &nbsp; pages={22001},<br>
-&nbsp; &nbsp;t year={2023},<br>
+&nbsp; &nbsp; year={2023},<br>
 &nbsp; &nbsp; publisher={IOP Publishing}<br>
 }
 
