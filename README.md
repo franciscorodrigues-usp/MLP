@@ -20,7 +20,7 @@ How to cite:
   publisher={IOP Publishing}
 }
 
-> My contacts:
+My contacts:
 
 * Webpage: https://sites.icmc.usp.br/francisco
 
@@ -30,5 +30,5 @@ How to cite:
 
 * Twitter: https://x.com/FranciscoICMC
 
-Telegram: https://t.me/cdcomplexos
+* Telegram: https://t.me/cdcomplexos
 
