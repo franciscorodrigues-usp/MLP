@@ -10,14 +10,14 @@ https://iopscience.iop.org/article/10.1209/0295-5075/ad0575
 
 How to cite:<br><br>
 @article{Rodrigues24:EPL,<br>
-&nbsp title={Machine learning in physics: a short guide},<br>
-&nbsp author={Rodrigues, Francisco A},<br>
-&nbsp journal={Europhysics Letters},<br>
-&nbsp volume={144},<br>
-&nbsp number={2},<br>
-&nbsp pages={22001},<br>
-&nbsp year={2023},<br>
-&nbsp publisher={IOP Publishing}<br>
+\t title={Machine learning in physics: a short guide},<br>
+\t author={Rodrigues, Francisco A},<br>
+\t journal={Europhysics Letters},<br>
+\t volume={144},<br>
+\t number={2},<br>
+\t pages={22001},<br>
+\t year={2023},<br>
+\t publisher={IOP Publishing}<br>
 }
 
 My contacts:
